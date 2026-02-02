@@ -77,3 +77,5 @@ a:hover { text-decoration: underline; }
 @media (max-width: 820px) {
   .grid { grid-template-columns: 1fr; }
 }
+.hero-actions { display: flex; gap: 12px; flex-wrap: wrap; margin-top: 18px; }
+
